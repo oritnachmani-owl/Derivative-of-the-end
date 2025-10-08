@@ -1,7 +1,10 @@
 <div dir="rtl">
 לצורך צפייה בנתונים, בשאילתות ובדוחות, כאשר MS Access מותקן על המחשב האישי, יש להוריד למחשב את הקובץ End_Calculators_Signed.accdc.
 &nbsp; 
-לצורך צפייה בנתונים, בשאילתות ובדוחות, כאשר MS Access **אינו** מותקן על המחשב האישי, יש להוריד למחשב  את הקובץ End_Calculators_Runtime_Signed.accdc. בנוסף, יש להוריד את ה Runtime של MS Access 365 בקישור הבא:
+&nbsp;  
+
+
+לצורך צפייה בנתונים, בשאילתות ובדוחות, כאשר MS Access אינו מותקן על המחשב האישי, יש להוריד למחשב  את הקובץ End_Calculators_Runtime_Signed.accdc. בנוסף, יש להוריד את ה Runtime של MS Access 365 בקישור הבא:
 https://support.microsoft.com/en-gb/office/download-and-install-microsoft-365-access-runtime-185c5a32-8ba9-491e-ac76-91cbe3ea09c9
 
 &nbsp;
