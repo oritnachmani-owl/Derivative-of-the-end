@@ -1,5 +1,5 @@
 <div dir="rtl">
-לצורך צפייה בנתונים, בשאילתות ובדוחות, ללא MS Access מותקן על המחשב, יש להוריד את ה Runtime של MS Access 365 בקישור הבא:
+לצורך צפייה בנתונים, בשאילתות ובדוחות, ללא MS Access מותקן על המחשב, יש להוריד למחשב האישי את הקובץ עם הסיומת accde. בנוסף, יש להוריד את ה Runtime של MS Access 365 בקישור הבא:
 https://support.microsoft.com/en-gb/office/download-and-install-microsoft-365-access-runtime-185c5a32-8ba9-491e-ac76-91cbe3ea09c9
 
 &nbsp;
