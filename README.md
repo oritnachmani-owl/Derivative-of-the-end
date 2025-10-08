@@ -1,5 +1,11 @@
 <div dir="rtl">
+לצורך צפייה בנתונים, בשאילתות ובדוחות, ללא MS Access מותקן על המחשב, יש להוריד את ה Runtime של MS Access 365 בקישור הבא:
+https://support.microsoft.com/en-gb/office/download-and-install-microsoft-365-access-runtime-185c5a32-8ba9-491e-ac76-91cbe3ea09c9
 
+&nbsp;
+
+
+ 
 **תאור ה Dataset ובנייתו**
 
 ה Dataset שאיתו עבדתי נבנה, כאמור על בסיס ספרו של אבא הלל סילבר: A History of Messianic Speculation in Israel: from the first through the seventeenth centuries<sup>[\[1\]](#footnote-1)</sup>, פרקים III - VII והוא מורכב מהטבלאות הראשיות הבאות:
